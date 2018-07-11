@@ -1,0 +1,10 @@
+{
+ "Name": "NavcoinNet",
+ "Desc": "Navcoin Main Net",
+ "Id": "0x20345080",
+ "Port": 44440,
+ "Pver": 70001,
+ "DNSName": "navcoin.seeder",
+ "TTL": 600,
+ "Seeder1": "seed.nav.community"
+}
